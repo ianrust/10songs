@@ -1,27 +1,27 @@
 {
   "AppName": {
-    "en": "Spotify Apps API Tutorial"
+    "en": "10songs"
   },
-  "BundleIdentifier": "api-tutorial",
+  "BundleIdentifier": "10songs",
   "AppDescription": {
-    "en": "A tutorial app for Spotify Apps API"
+    "en": "An app for mixing and merging your current musical tastes with others"
   },
   "AcceptedLinkTypes": [
     "playlist"
   ],
   "BundleType": "Application",
-  "BundleVersion": "0.2",
+  "BundleVersion": "0.1",
   "DefaultTabs": [
     {
-      "arguments": "index",
+      "arguments": "profile",
       "title": {
-        "en": "Home"
+        "en": "Profile"
       }
     },
     {
-      "arguments": "tabs",
+      "arguments": "rooms",
       "title": {
-        "en": "How to use tabs"
+        "en": "Jamborees"
       }
     }
   ],
